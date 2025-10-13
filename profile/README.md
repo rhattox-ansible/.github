@@ -1,12 +1,33 @@
-## Hi there 👋
 
-<!--
+### External Dependencies:
 
-**Here are some ideas to get you started:**
+  https://github.com/rhattox-ansible/collection-apt-repo
+  
+  https://github.com/rhattox-ansible/collection-java
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### Mandatory:
+  `ansible-ansible`
+
+
+### Standalone:
+```
+  ansible-docker
+  ansible-nexus
+  ansible-sonarqube
+  ansible-jenkins
+```
+
+
+### K8s Bundle:
+```
+  ansible-containerd
+  ansible-kubernetes
+  ansible-kubernetes-cli-tools
+  ansible-containerd-nerdctl
+  ansible-kubernetes-helm-vault
+  ansible-kubernetes-helm-monitoring
+  ansible-kubernetes-helm-istio
+  ansible-kubernetes-helm-argocd
+  ansible-kubernetes-helm-arc-runner
+```
