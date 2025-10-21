@@ -12,22 +12,22 @@
 
 ### Standalone:
 ```
-  ansible-docker
-  ansible-nexus
-  ansible-sonarqube
-  ansible-jenkins
+ansible-docker
+ansible-nexus
+ansible-sonarqube
+ansible-jenkins
 ```
 
 
 ### K8s Bundle:
 ```
-  ansible-containerd
-  ansible-kubernetes
-  ansible-kubernetes-cli-tools
-  ansible-containerd-nerdctl
-  ansible-kubernetes-helm-vault
-  ansible-kubernetes-helm-monitoring
-  ansible-kubernetes-helm-istio
-  ansible-kubernetes-helm-argocd
-  ansible-kubernetes-helm-arc-runner
+ansible-containerd
+ansible-kubernetes
+ansible-kubernetes-cli-tools
+ansible-containerd-nerdctl
+ansible-kubernetes-helm-vault
+ansible-kubernetes-helm-monitoring
+ansible-kubernetes-helm-istio
+ansible-kubernetes-helm-argocd
+ansible-kubernetes-helm-arc-runner
 ```
