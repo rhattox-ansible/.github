@@ -22,9 +22,9 @@ ansible-jenkins
 ### K8s Bundle:
 ```
 ansible-containerd
+ansible-containerd-nerdctl
 ansible-kubernetes
 ansible-kubernetes-cli-tools
-ansible-containerd-nerdctl
 ansible-kubernetes-helm-vault
 ansible-kubernetes-helm-monitoring
 ansible-kubernetes-helm-istio
